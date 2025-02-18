@@ -14,7 +14,8 @@ function Navbar({ links }) {
         menuOpen ? " nav-open" : ""
       }`}>
       <div className="nav-content">
-        <div className="nav-logo">Go 4 App</div>
+        <div className="nav-logo-img"><img src="./images/logo.webp"/></div>
+        <div className="nav-logo">Go4Surprise</div>
 
         <nav className="nav-links__container">
           {links &&
@@ -37,11 +38,10 @@ function Navbar({ links }) {
 
 Navbar.defaultProps = {
   links: [
-    { title: "Home", href: "#home" },
-    { title: "Features", href: "#features" },
-    { title: "Services", href: "#services" },
-    { title: "Pricing", href: "#pricing" },
-    { title: "Contact", href: "#contact" }
+    { title: "Inicio", href: "#home" },
+    { title: "Caracteristicas", href: "#features" },
+    { title: "Nuestro Diseño", href: "#screenshots" },
+    { title: "Encuentranos", href: "#download" },
   ]
 };
 

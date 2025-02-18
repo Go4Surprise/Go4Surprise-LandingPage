@@ -5,16 +5,18 @@ function HeroBanner() {
     <section id="home">
       <div className="container">
         <div className="home-text">
-          <div className="section-text__subtitle">App landing page</div>
+          <div className="section-text__subtitle">Sobre Nuestra Aplicación</div>
           <div className="section-text__title-big">
-            Get things done with Anapp
+            Go4Surprise, Diversión por sorpresa
           </div>
           <div className="section-text__body">
-            Dorem ipsum dolor sitamet, consectetur adipiscing elit, sed do eiusm
-            tempor incididunt ulabore et dolore magna aliqua.
+            En Go4Surprise eligiendo una fecha, ciudad y tipo de evento, seras capaz de asistir a un evento totalmente sorpresa.
+          </div>
+          <div className="section-text__body">
+            Estas entradas ademas gozaran de un precio reducido, en comparación con las vendidas por la competencia para el mismo evento.
           </div>
           <a href="#download" className="download-btn">
-            Download App
+            Encuentranos
           </a>
         </div>
 

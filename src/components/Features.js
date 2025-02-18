@@ -9,37 +9,37 @@ function Features() {
         </div>
         <div className="section-text">
           <div className="section-text__title">
-            Some of the best features Of Our App!
+            Algunas de nuestras caracteristicas
           </div>
 
           <div className="row">
             <div className="feature-box col-50">
-              <div className="section-text__title-small">Easy to customize</div>
+              <div className="section-text__title-small">Elección de fecha y lugar</div>
               <div className="section-text__body">
-                Aorem psum olorsit amet ectetur adipiscing elit, sed dov.
+                Podras acomodar la fecha y lugar del evento a tus necesidades
               </div>
             </div>
 
             <div className="feature-box col-50">
-              <div className="section-text__title-small">Extreme Security</div>
+              <div className="section-text__title-small">Pistas a las 48h</div>
               <div className="section-text__body">
-                Aorem psum olorsit amet ectetur adipiscing elit, sed dov.
+                48 horas antes reciviras una pista de tu evento, siendo este revelado 24 horas antes de su comienzo
               </div>
             </div>
           </div>
 
           <div className="row">
             <div className="feature-box col-50">
-              <div className="section-text__title-small">Customer Support</div>
+              <div className="section-text__title-small">Compra sin sorpresas</div>
               <div className="section-text__body">
-                Aorem psum olorsit amet ectetur adipiscing elit, sed dov.
+                Si eres de los que no les gustan las sorpresas, también disponemos de un servicio de compra tradicional a precios reducidos
               </div>
             </div>
 
             <div className="feature-box col-50">
-              <div className="section-text__title-small">Creative Design</div>
+              <div className="section-text__title-small">Presume de tus experiencias</div>
               <div className="section-text__body">
-                Aorem psum olorsit amet ectetur adipiscing elit, sed dov.
+                Podras compartir fotos y reseñas de todos los eventos realizados en la aplicación.
               </div>
             </div>
           </div>

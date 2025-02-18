@@ -6,11 +6,10 @@ function Download() {
       <div className="container">
         <div className="section-text">
           <div className="section-text__title text-white">
-            Our App Available For Any Device Download now
+            Encuentranos Proximamente
           </div>
           <div className="section-text__body text-white">
-            Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore fug.
+            Proximamente disponibles en buscadores, AppStore y PlayStore.
           </div>
           <a href="#download" className="download-btn__img">
             <img src="./images/app_btn1.webp" alt="app store" />

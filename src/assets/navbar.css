@@ -36,6 +36,14 @@
   font-size: 2rem;
 }
 
+.nav-logo-img {
+  height: 100%;
+  width: 7%;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .nav-links__container {
   display: flex;
   margin-left: auto;

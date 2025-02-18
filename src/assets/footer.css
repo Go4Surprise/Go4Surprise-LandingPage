@@ -84,7 +84,7 @@ footer .row .col-30 {
     flex-direction: column;
   }
   footer .row .col-30 {
-    width: calc(100% - 24px);
+    width: 45%;
     margin: 12px auto;
   }
   .footer-text__title {
