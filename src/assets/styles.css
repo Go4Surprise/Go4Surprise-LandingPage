@@ -221,7 +221,7 @@ section#pricing {
       rgba(249, 33, 141, 0.75) 0%,
       rgba(108, 25, 246, 0.75) 100%
     ),
-    url("./images/best_pricingbg.webp");
+    url("../../public/images/best_pricingbg.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

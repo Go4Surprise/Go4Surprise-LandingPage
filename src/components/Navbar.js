@@ -14,7 +14,7 @@ function Navbar({ links }) {
         menuOpen ? " nav-open" : ""
       }`}>
       <div className="nav-content">
-        <div className="nav-logo">Anapp</div>
+        <div className="nav-logo">Go 4 App</div>
 
         <nav className="nav-links__container">
           {links &&
