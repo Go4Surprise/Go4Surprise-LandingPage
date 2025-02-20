@@ -21,9 +21,6 @@ function Screenshots() {
             <div className="section-carousel__image">
               <img src="./images/App3.webp" alt="app screenshot" />
             </div>
-            <div className="section-carousel__image">
-              <img src="./images/App1.webp" alt="app screenshot" />
-            </div>
           </div>
         </div>
       </div>

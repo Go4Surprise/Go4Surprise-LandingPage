@@ -176,9 +176,9 @@ section > .container > * {
 }
 
 .download-btn {
-  background-color: #f9218d;
+  background-color: #355bee;
   text-decoration: none;
-  color: #fff;
+  color: #ffffff;
   cursor: pointer;
   display: inline-block;
   font-size: 1.1rem;
@@ -190,7 +190,7 @@ section > .container > * {
   margin: 0;
 }
 .download-btn:hover {
-  background-color: #da1276;
+  background-color: #2ac3d7;
 }
 
 .section-carousel__images {
@@ -218,8 +218,8 @@ section#pricing {
   padding: 40px 24px;
   background-image: -webkit-linear-gradient(
       0deg,
-      rgba(249, 33, 141, 0.75) 0%,
-      rgba(108, 25, 246, 0.75) 100%
+      #355bee 0%,
+      rgba(91, 25, 246, 0.75) 100%
     ),
     url("../../public/images/best_pricingbg.webp");
   background-repeat: no-repeat;
@@ -336,8 +336,8 @@ section#download {
   display: flex;
   background-image: -webkit-linear-gradient(
     0deg,
-    rgb(249, 33, 141) 0%,
-    rgb(108, 25, 246) 100%
+    #355bee 0%,
+    rgb(50, 2, 126) 100%
   );
 }
 section#download .container {
