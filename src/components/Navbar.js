@@ -39,9 +39,9 @@ function Navbar({ links }) {
 Navbar.defaultProps = {
   links: [
     { title: "Inicio", href: "#home" },
-    { title: "Caracteristicas", href: "#features" },
+    { title: "Características", href: "#features" },
     { title: "Nuestro Diseño", href: "#screenshots" },
-    { title: "Encuentranos", href: "#download" },
+    { title: "Encuéntranos", href: "#download" },
   ]
 };
 

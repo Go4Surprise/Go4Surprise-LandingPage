@@ -6,10 +6,10 @@ function Download() {
       <div className="container">
         <div className="section-text">
           <div className="section-text__title text-white">
-            Encuentranos Proximamente
+            Encuéntranos Próximamente
           </div>
           <div className="section-text__body text-white">
-            Proximamente disponibles en buscadores, AppStore y PlayStore.
+            Próximamente disponibles en buscadores, App Store y Play Store.
           </div>
           <a href="#download" className="download-btn__img">
             <img src="./images/app_btn1.webp" alt="app store" />

@@ -9,7 +9,7 @@ function Footer() {
           <div className="col-30">
             <div className="footer-text__title">Go4Surprise</div>
             <div className="footer-text__body">
-              Esta aplicación pretende ser lanzada en verano del 2025 coincidiendo con el final del curso escolar.
+              Esta aplicación pretende ser lanzada en verano del 2025, coincidiendo con el final del curso escolar.
             </div>
           </div>
           <div className="col-30">
@@ -19,13 +19,13 @@ function Footer() {
                 <a href="#home">Inicio</a>
               </li>
               <li>
-                <a href="#features">Caracteristicas</a>
+                <a href="#features">Características</a>
               </li>
               <li>
                 <a href="#screenshots">Nuestro Diseño</a>
               </li>
               <li>
-                <a href="#download">Encuentranos</a>
+                <a href="#download">Encuéntranos</a>
               </li>
             </ul>
           </div>

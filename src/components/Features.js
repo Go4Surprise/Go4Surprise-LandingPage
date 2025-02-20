@@ -9,21 +9,21 @@ function Features() {
         </div>
         <div className="section-text">
           <div className="section-text__title">
-            Algunas de nuestras caracteristicas
+            Algunas de nuestras características
           </div>
 
           <div className="row">
             <div className="feature-box col-50">
               <div className="section-text__title-small">Elección de fecha y lugar</div>
               <div className="section-text__body">
-                Podras acomodar la fecha y lugar del evento a tus necesidades
+                Podrás acomodar la fecha y lugar del evento a tus necesidades
               </div>
             </div>
 
             <div className="feature-box col-50">
-              <div className="section-text__title-small">Pistas a las 48h</div>
+              <div className="section-text__title-small">Pistas a las 48 horas</div>
               <div className="section-text__body">
-                48 horas antes reciviras una pista de tu evento, siendo este revelado 24 horas antes de su comienzo
+                48 horas antes recibirás una pista de tu evento, siendo este revelado 24 horas antes de su comienzo
               </div>
             </div>
           </div>
@@ -39,7 +39,7 @@ function Features() {
             <div className="feature-box col-50">
               <div className="section-text__title-small">Presume de tus experiencias</div>
               <div className="section-text__body">
-                Podras compartir fotos y reseñas de todos los eventos realizados en la aplicación.
+                Podrás compartir fotos y reseñas de todos los eventos realizados en la aplicación.
               </div>
             </div>
           </div>

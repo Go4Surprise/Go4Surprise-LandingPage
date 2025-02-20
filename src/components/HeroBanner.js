@@ -10,13 +10,13 @@ function HeroBanner() {
             Go4Surprise, Diversión por sorpresa
           </div>
           <div className="section-text__body">
-            En Go4Surprise eligiendo una fecha, ciudad y tipo de evento, seras capaz de asistir a un evento totalmente sorpresa.
+            En Go4Surprise eligiendo una fecha, ciudad y tipo de evento, serás capaz de asistir a un evento totalmente sorpresa.
           </div>
           <div className="section-text__body">
-            Estas entradas ademas gozaran de un precio reducido, en comparación con las vendidas por la competencia para el mismo evento.
+            Estas entradas además gozarán de un precio reducido, en comparación con las vendidas por la competencia para el mismo evento.
           </div>
           <a href="#download" className="download-btn">
-            Encuentranos
+            Encuéntranos
           </a>
         </div>
 
