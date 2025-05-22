@@ -15,7 +15,7 @@ function HeroBanner() {
           <div className="section-text__body">
             Estas entradas además gozarán de un precio reducido, en comparación con las vendidas por la competencia para el mismo evento.
           </div>
-          <a href="https://ppl-go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com/" className="download-btn">
+          <a href="https://wpl-go4-frontend-dot-ispp-2425-g10.ew.r.appspot.com/" className="download-btn">
             Encuéntranos
           </a>
         </div>
